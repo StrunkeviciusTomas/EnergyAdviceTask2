@@ -1,0 +1,25 @@
+
+Analizės ataskaita (paskutiniai 6 mėnesiai)
+--------------------------------------------------
+
+7) Hidroelektrinių analizė:
+   - Pasileidimų skaičius: 1
+   - Iš viso išdirbta laiko (valandomis): 4369
+
+8) Didžiausio vartojimo savaitės diena:
+   - Diena su didžiausiu vidutiniu vartojimu: Tuesday
+   - Vidutinis vartojimas pagal savaitės dienas (MW):
+weekday
+Tuesday      1516.423000
+Wednesday    1510.226346
+Monday       1500.518633
+Thursday     1474.013357
+Friday       1448.338704
+Saturday     1331.414058
+Sunday       1326.435397
+
+10) Polinomo koeficientai (12 laipsnio):
+[ 2.52736273e-19 -2.90443989e-16  1.44618733e-13 -4.10530375e-11
+  7.34318333e-09 -8.62080749e-07  6.69654590e-05 -3.37625772e-03
+  1.04613992e-01 -1.75464687e+00  1.04434042e+01  5.49256294e+01
+  1.02269913e+03]
